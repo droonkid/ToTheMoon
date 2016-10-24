@@ -90,7 +90,7 @@ WINE REGISTRY Version 2
 [Software\\Classes\\.js] 1372698485
 @="JSFile"
 
-[Software\\Classes\\.key] 1477109534
+[Software\\Classes\\.key] 1477173618
 @="regfile"
 
 [Software\\Classes\\.lnk] 1372698449
@@ -18175,7 +18175,7 @@ WINE REGISTRY Version 2
 "CommonPictures"=str(2):"%ALLUSERSPROFILE%\\Pictures"
 "CommonVideo"=str(2):"%ALLUSERSPROFILE%\\Videos"
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Fonts] 1477109532
+[Software\\Microsoft\\Windows\\CurrentVersion\\Fonts] 1477173616
 "@Adobe Fan Heiti Std B"="Z:\\Library\\Fonts\\AdobeFanHeitiStd-Bold.otf"
 "@Adobe Fangsong Std R"="Z:\\Library\\Fonts\\AdobeFangsongStd-Regular.otf"
 "@Adobe Gothic Std B"="Z:\\Library\\Fonts\\AdobeGothicStd-Bold.otf"
@@ -18869,7 +18869,7 @@ WINE REGISTRY Version 2
 "Sukhumvit Set Semi Bold"="Z:\\Library\\Fonts\\SukhumvitSet.ttc"
 "Sukhumvit Set Text"="Z:\\Library\\Fonts\\SukhumvitSet.ttc"
 "Sukhumvit Set Thin"="Z:\\Library\\Fonts\\SukhumvitSet.ttc"
-"Symbol"="Z:\\Users\\chasehult\\Downloads\\To the Moon.app\\Contents\\Frameworks\\wswine.bundle\\lib\\..\\bin\\..\\share\\wine\\fonts\\\\symbol.ttf"
+"Symbol"="Z:\\Users\\chasehult\\GitHub\\ToTheMoon\\To the Moon.app\\Contents\\Frameworks\\wswine.bundle\\lib\\..\\bin\\..\\share\\wine\\fonts\\\\symbol.ttf"
 "Tahoma"="Z:\\Library\\Fonts\\Tahoma.ttf"
 "Tahoma Bold"="Z:\\Library\\Fonts\\Tahoma Bold.ttf"
 "Tamil MN"="Z:\\Library\\Fonts\\Tamil MN.ttc"
@@ -20466,7 +20466,7 @@ WINE REGISTRY Version 2
 "MinLevel"=dword:00012000
 "RecommendedLevel"=dword:00012000
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{15E06DF6-4B91-4F4C-A5BE-1802C27ADFE8}] 1477109536
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{15E06DF6-4B91-4F4C-A5BE-1802C27ADFE8}] 1477173619
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{15E06DF6-4B91-4F4C-A5BE-1802C27ADFE8}\\Properties] 1477109536
@@ -20480,7 +20480,7 @@ WINE REGISTRY Version 2
   05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{17173664-3EA4-4632-9E0D-68A2F87DCE2D}] 1477109536
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{17173664-3EA4-4632-9E0D-68A2F87DCE2D}] 1477173619
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{17173664-3EA4-4632-9E0D-68A2F87DCE2D}\\Properties] 1477109536
@@ -20494,7 +20494,7 @@ WINE REGISTRY Version 2
   05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{1B34AECB-CC31-4347-8A35-4F001F19334E}] 1477109536
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{1B34AECB-CC31-4347-8A35-4F001F19334E}] 1477173619
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{1B34AECB-CC31-4347-8A35-4F001F19334E}\\Properties] 1477109536
@@ -20522,7 +20522,7 @@ WINE REGISTRY Version 2
   05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{850BBA16-0799-4EBC-9EE8-F9532C59DB38}] 1477109536
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{850BBA16-0799-4EBC-9EE8-F9532C59DB38}] 1477173619
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{850BBA16-0799-4EBC-9EE8-F9532C59DB38}\\Properties] 1477109536
@@ -20564,7 +20564,7 @@ WINE REGISTRY Version 2
   05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{E59F4D73-ACB4-44BC-A7F3-A8325C9E6E12}] 1477109536
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{E59F4D73-ACB4-44BC-A7F3-A8325C9E6E12}] 1477173619
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{E59F4D73-ACB4-44BC-A7F3-A8325C9E6E12}\\Properties] 1477109536
@@ -20592,7 +20592,7 @@ WINE REGISTRY Version 2
   05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{11B2E3FB-92FA-46F6-BD67-DE83705E65C8}] 1477109536
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{11B2E3FB-92FA-46F6-BD67-DE83705E65C8}] 1477173619
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{11B2E3FB-92FA-46F6-BD67-DE83705E65C8}\\Properties] 1477109536
@@ -20606,7 +20606,7 @@ WINE REGISTRY Version 2
   05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{153CE42F-309D-4E17-8C50-CCBA93E54397}] 1477109536
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{153CE42F-309D-4E17-8C50-CCBA93E54397}] 1477173619
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{153CE42F-309D-4E17-8C50-CCBA93E54397}\\Properties] 1477109536
@@ -20620,7 +20620,7 @@ WINE REGISTRY Version 2
   05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{18AAE9D2-8314-46A2-AAAF-E98AB25FCFC5}] 1477109536
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{18AAE9D2-8314-46A2-AAAF-E98AB25FCFC5}] 1477173619
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{18AAE9D2-8314-46A2-AAAF-E98AB25FCFC5}\\Properties] 1477109536
@@ -20648,7 +20648,7 @@ WINE REGISTRY Version 2
   05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{A2FA0438-EB45-4F94-B078-B6A84924345B}] 1477109536
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{A2FA0438-EB45-4F94-B078-B6A84924345B}] 1477173619
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{A2FA0438-EB45-4F94-B078-B6A84924345B}\\Properties] 1477109536
@@ -22488,7 +22488,7 @@ WINE REGISTRY Version 2
 
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\FontMapper] 1372698449
 
-[Software\\Microsoft\\Windows NT\\CurrentVersion\\Fonts] 1477109532
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Fonts] 1477173616
 "@Adobe Fan Heiti Std B"="Z:\\Library\\Fonts\\AdobeFanHeitiStd-Bold.otf"
 "@Adobe Fangsong Std R"="Z:\\Library\\Fonts\\AdobeFangsongStd-Regular.otf"
 "@Adobe Gothic Std B"="Z:\\Library\\Fonts\\AdobeGothicStd-Bold.otf"
@@ -23182,7 +23182,7 @@ WINE REGISTRY Version 2
 "Sukhumvit Set Semi Bold"="Z:\\Library\\Fonts\\SukhumvitSet.ttc"
 "Sukhumvit Set Text"="Z:\\Library\\Fonts\\SukhumvitSet.ttc"
 "Sukhumvit Set Thin"="Z:\\Library\\Fonts\\SukhumvitSet.ttc"
-"Symbol"="Z:\\Users\\chasehult\\Downloads\\To the Moon.app\\Contents\\Frameworks\\wswine.bundle\\lib\\..\\bin\\..\\share\\wine\\fonts\\\\symbol.ttf"
+"Symbol"="Z:\\Users\\chasehult\\GitHub\\ToTheMoon\\To the Moon.app\\Contents\\Frameworks\\wswine.bundle\\lib\\..\\bin\\..\\share\\wine\\fonts\\\\symbol.ttf"
 "Tahoma"="Z:\\Library\\Fonts\\Tahoma.ttf"
 "Tahoma Bold"="Z:\\Library\\Fonts\\Tahoma Bold.ttf"
 "Tamil MN"="Z:\\Library\\Fonts\\Tamil MN.ttc"

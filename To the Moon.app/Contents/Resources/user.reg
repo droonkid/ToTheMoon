@@ -316,12 +316,14 @@ WINE REGISTRY Version 2
 
 [Software\\Microsoft\\Protected Storage System Provider] 1372698449
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1456277687
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced] 1477110728
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1477110727
 "AppData"="C:\\users\\chasehult\\Application Data"
 "Cache"="C:\\users\\paulthetall\\Local Settings\\Temporary Internet Files"
 "Cookies"="C:\\users\\paulthetall\\Cookies"
 "Desktop"="C:\\users\\chasehult\\Desktop"
-"Favorites"="C:\\users\\Wineskin\\Favorites"
+"Favorites"="C:\\users\\chasehult\\Favorites"
 "Fonts"="C:\\windows\\Fonts"
 "History"="C:\\users\\paulthetall\\Local Settings\\History"
 "Local AppData"="C:\\users\\chasehult\\Local Settings\\Application Data"
@@ -329,7 +331,7 @@ WINE REGISTRY Version 2
 "My Pictures"="C:\\users\\Wineskin\\My Pictures"
 "My Videos"="C:\\users\\Wineskin\\My Videos"
 "NetHood"="C:\\users\\Wineskin\\NetHood"
-"Personal"="C:\\users\\Wineskin\\My Documents"
+"Personal"="C:\\users\\chasehult\\My Documents"
 "PrintHood"="C:\\users\\Wineskin\\PrintHood"
 "Programs"="C:\\users\\chasehult\\Start Menu\\Programs"
 "Recent"="C:\\users\\Wineskin\\Recent"
@@ -752,11 +754,11 @@ WINE REGISTRY Version 2
 "OpenWithIcon"="7765_winebrowser.0"
 "ProgID"="xmlfile"
 
-[Software\\Wine\\Fonts] 1477109523
+[Software\\Wine\\Fonts] 1477173609
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
-[Software\\Wine\\Fonts\\External Fonts] 1477109532
+[Software\\Wine\\Fonts\\External Fonts] 1477173616
 "@Adobe Fan Heiti Std B"="Z:\\Library\\Fonts\\AdobeFanHeitiStd-Bold.otf"
 "@Adobe Fangsong Std R"="Z:\\Library\\Fonts\\AdobeFangsongStd-Regular.otf"
 "@Adobe Gothic Std B"="Z:\\Library\\Fonts\\AdobeGothicStd-Bold.otf"
@@ -1446,7 +1448,7 @@ WINE REGISTRY Version 2
 "Sukhumvit Set Semi Bold"="Z:\\Library\\Fonts\\SukhumvitSet.ttc"
 "Sukhumvit Set Text"="Z:\\Library\\Fonts\\SukhumvitSet.ttc"
 "Sukhumvit Set Thin"="Z:\\Library\\Fonts\\SukhumvitSet.ttc"
-"Symbol"="Z:\\Users\\chasehult\\Downloads\\To the Moon.app\\Contents\\Frameworks\\wswine.bundle\\lib\\..\\bin\\..\\share\\wine\\fonts\\\\symbol.ttf"
+"Symbol"="Z:\\Users\\chasehult\\GitHub\\ToTheMoon\\To the Moon.app\\Contents\\Frameworks\\wswine.bundle\\lib\\..\\bin\\..\\share\\wine\\fonts\\\\symbol.ttf"
 "Tahoma"="Z:\\Library\\Fonts\\Tahoma.ttf"
 "Tahoma Bold"="Z:\\Library\\Fonts\\Tahoma Bold.ttf"
 "Tamil MN"="Z:\\Library\\Fonts\\Tamil MN.ttc"
@@ -1493,9 +1495,6 @@ WINE REGISTRY Version 2
 "Zapf Dingbats"="Z:\\System\\Library\\Fonts\\ZapfDingbats.ttf"
 "Zapfino"="Z:\\Library\\Fonts\\Zapfino.ttf"
 
-[Software\\Wine\\MenuFiles] 1456277688
-"/Users/chasehult/.config/menus/applications-merged/wine-Programs-GOG.com-To The Moon-To The Moon.menu"="/Users/chasehult/Downloads/To the Moon.app/Contents/Resources/dosdevices/c:/users/Public/Start Menu/Programs/GOG.com/To The Moon/To The Moon.lnk"
-"/Users/chasehult/.config/menus/applications-merged/wine-Programs-GOG.com-To The Moon-Uninstall To The Moon.menu"="/Users/chasehult/Downloads/To the Moon.app/Contents/Resources/dosdevices/c:/users/Public/Start Menu/Programs/GOG.com/To The Moon/Uninstall To The Moon.lnk"
-"/Users/chasehult/.local/share/applications/wine/Programs/GOG.com/To The Moon/To The Moon.desktop"="/Users/chasehult/Downloads/To the Moon.app/Contents/Resources/dosdevices/c:/users/Public/Start Menu/Programs/GOG.com/To The Moon/To The Moon.lnk"
-"/Users/chasehult/.local/share/applications/wine/Programs/GOG.com/To The Moon/Uninstall To The Moon.desktop"="/Users/chasehult/Downloads/To the Moon.app/Contents/Resources/dosdevices/c:/users/Public/Start Menu/Programs/GOG.com/To The Moon/Uninstall To The Moon.lnk"
-"/Users/chasehult/Downloads/To the Moon.app/Contents/Resources/dosdevices/c:/users/chasehult/Desktop/To The Moon.desktop"="/Users/chasehult/Downloads/To the Moon.app/Contents/Resources/dosdevices/c:/users/Public/Desktop/To The Moon.lnk"
+[Software\\Wine\\MenuFiles] 1477110727
+
+[Software\\Wine\\WineDbg] 1477110737
